@@ -67,6 +67,7 @@ public class CloneIface
 		System.out.println("2nd clone i: "+ b.i);
 		System.out.println("2nd clone s: " + b.s);
 		System.out.println("2nd clone iq: " + b.iq);
+		System.out.println("2nd clone y: " + b.y);
 		//System.out.println("third clone i: "+ third.i);	
 		//System.out.println("third clone s: "+ third.s);	
 		//System.out.println("third clone iq: "+ third.iq);		
